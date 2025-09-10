@@ -2,3 +2,11 @@ https://imagensvoke2.sharepoint.com/sites/imagensvoke2/Documentos%20Compartilhad
 
 
 https://imagensvoke2.sharepoint.com/:f:/s/imagensvoke2/El09kOdzWZdBpYK34tuDsHoBFObGJdOpxluuGmE9jF9dMw?e=0LsDYO
+
+
+https://centraldeatendimento.totvs.com/hc/pt-br/articles/15025426395159-TC-PDV-REINSTALA%C3%87%C3%83O-COMPLETO
+
+https://centraldeatendimento.totvs.com/hc/pt-br/articles/360028222891-TC-AC-Implanta%C3%A7%C3%A3o-Instala%C3%A7%C3%A3o-do-SQL-Server-2008-R2
+
+
+https://centraldeatendimento.totvs.com/hc/pt-br/articles/15025426395159-TC-PDV-REINSTALA%C3%87%C3%83O-COMPLETO
