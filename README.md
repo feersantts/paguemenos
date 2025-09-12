@@ -14,3 +14,8 @@ https://centraldeatendimento.totvs.com/hc/pt-br/articles/15025426395159-TC-PDV-R
 
 
 https://login.microsoftonline.com/7430a5c9-d553-45e6-bf89-a34bedd0e2aa/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=17844B31C10062ECC844682CD97CF9A73B813B23D2392D6F%2D5384CA67841A819994D000FAA0974B5335D1B6A49A13B0BC6E8203A43DED9F7A&redirect%5Furi=https%3A%2F%2Fimagensvoke%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=1e15c5a1%2De004%2D9000%2Df556%2Dd46ad0e62aac
+
+
+imagem: https://imagensvoke5.sharepoint.com/:f:/s/imagensvoke5/ErxzByurySFEo0YKFra_OpIBHbRXBKrn93OncjxuOlbb0Q?e=Bf12Wi
+
+script: https://imagensvoke4.sharepoint.com/:f:/g/EthMd80vlcVDrgYiLFsUMvUBu9DL9Bbk-s18Z5BNGDM_Xw?e=6PHh0G
